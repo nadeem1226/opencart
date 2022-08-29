@@ -187,3 +187,38 @@
 14:55:01.478 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
 14:55:29.606 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
 14:55:30.878 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+16:51:42.328 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Strating TC_001_AccountRegistrationtTest
+16:51:42.471 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on My Account 
+16:51:43.201 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Register 
+16:51:43.384 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided First Name 
+16:51:43.537 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Last Name 
+16:51:43.702 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Email 
+16:51:43.851 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Telephone 
+16:51:44.003 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Password 
+16:51:44.149 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Confrmed Password 
+16:51:44.256 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Set Privacy Policy 
+16:51:46.993 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Continue 
+16:51:49.099 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Finished TC_001_AccountRegistrationtTest
+16:51:52.291 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:52:07.432 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+16:52:08.891 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+16:52:12.166 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:52:17.169 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+16:54:35.909 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Strating TC_001_AccountRegistrationtTest
+16:54:36.079 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on My Account 
+16:54:36.816 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Register 
+16:54:36.988 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided First Name 
+16:54:37.132 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Last Name 
+16:54:37.303 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Email 
+16:54:37.446 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Telephone 
+16:54:37.585 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Password 
+16:54:37.736 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Provided Confrmed Password 
+16:54:37.836 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Set Privacy Policy 
+16:54:40.585 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Clicked on Continue 
+16:54:42.651 [main] INFO  testCases.TC_001_AccountRegistrationtTest - Finished TC_001_AccountRegistrationtTest
+16:54:45.911 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+16:54:47.756 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+16:54:50.823 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+16:54:52.058 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+16:54:55.220 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+16:54:59.460 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 

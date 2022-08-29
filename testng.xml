@@ -10,10 +10,10 @@
   <test name="Test">
     <parameter name="browser" value="chrome" />    <!-- passing browser parameter to BaseClass ->Setup() -->
     <classes>
-   	   <!-- <class name="testCases.TC_001_AccountRegistrationtTest"/>
+   	        <class name="testCases.TC_001_AccountRegistrationtTest"/>
    	        <class name="testCases.TC_002_LoginTest"/>
   	        <class name="testCases.TC_004_SearchProductTest"/>
-   	         <class name="testCases.TC_005_AddToCartPageTest"/> -->
+   	         <class name="testCases.TC_005_AddToCartPageTest"/> 
    	          <class name="testCases.TC_006_EndToEndTest"/>
    	    <!-- <class name="testCases.TC_003_LoginDataDrivenTest"/> -->
    	     
